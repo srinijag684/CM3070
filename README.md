@@ -1,7 +1,7 @@
 # CM3070
 Final Year Project for Uol BSc Computer Science
 
-Machine Learning Algorithms Used:
+Machine Learning Classifiers Used:
 1. Multinomial Navive Bayes 
 2. k-Nearest Neighbours
 3. Logistic Regression
